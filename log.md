@@ -39,3 +39,18 @@
 **Link(s) to work**
 
 [Pay_program.md](https://github.com/Elijahnohands/100-days-of-code/files/6601696/Pay_program.md)
+
+
+### Day 1: 6/5/201
+
+**Today's Progress**: learned about loops and defining fuctions
+
+**Thoughts** this is getting a bit harder. feeling a lilttle burnt out today. dont feel too well
+
+
+**Link(s) to work**
+[Pay_program_with define_func (2).md](https://github.com/Elijahnohands/100-days-of-code/files/6603261/Pay_program_with.define_func.2.md)
+[Pay_program_with define_func (1).md](https://github.com/Elijahnohands/100-days-of-code/files/6603262/Pay_program_with.define_func.1.md)
+
+[learn_func_name_lang.md](https://github.com/Elijahnohands/100-days-of-code/files/6603255/learn_func_name_lang.md)
+
