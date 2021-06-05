@@ -30,3 +30,12 @@
 
 [first.md](https://github.com/Elijahnohands/100-days-of-code/files/6595241/first.md) eur to us elevator converter
 
+### Day 1: 6/4/201
+
+**Today's Progress**: made very simple code to tll how many minutes in a set amout of hours, also followed tutorial for pay with overtime code
+
+**Thoughts** I still want to get into more complex coding but basics 
+
+**Link(s) to work**
+
+[Pay_program.md](https://github.com/Elijahnohands/100-days-of-code/files/6601696/Pay_program.md)
