@@ -30,7 +30,7 @@
 
 [first.md](https://github.com/Elijahnohands/100-days-of-code/files/6595241/first.md) eur to us elevator converter
 
-### Day 1: 6/4/201
+### Day 2: 6/4/201
 
 **Today's Progress**: made very simple code to tll how many minutes in a set amout of hours, also followed tutorial for pay with overtime code
 
@@ -41,7 +41,7 @@
 [Pay_program.md](https://github.com/Elijahnohands/100-days-of-code/files/6601696/Pay_program.md)
 
 
-### Day 1: 6/5/201
+### Day 3: 6/5/201
 
 **Today's Progress**: learned about loops and defining fuctions
 
@@ -53,4 +53,17 @@
 [Pay_program_with define_func (1).md](https://github.com/Elijahnohands/100-days-of-code/files/6603262/Pay_program_with.define_func.1.md)
 
 [learn_func_name_lang.md](https://github.com/Elijahnohands/100-days-of-code/files/6603255/learn_func_name_lang.md)
+
+
+### Day 4: 6/6/201
+
+**Today's Progress**: learned more about loops searching a line with the for loop and using boolian true false and ising 'is' also using none!
+
+[screenshot-www freecodecamp org-2021 06 06-11_26_07](https://user-images.githubusercontent.com/85261864/120930126-0da3fe00-c6ba-11eb-819a-35091cfb9b35.png)
+
+
+**Thoughts**
+
+
+**Link(s) to work**
 
