@@ -57,13 +57,31 @@
 
 ### Day 4: 6/6/201
 
-**Today's Progress**: learned more about loops searching a line with the for loop and using boolian true false and ising 'is' also using none!
+**Today's Progress**: learned more about loops searching a line with the for loop and using boolian true false and ising 'is' also using none! also finding and print parts of a sting also learned about the string liberary and its uses
+
+
+[screenshot-www freecodecamp org-2021 06 06-18_14_45](https://user-images.githubusercontent.com/85261864/120941858-1f55c780-c6f3-11eb-9940-0126a35068ce.png)
+
 
 [screenshot-www freecodecamp org-2021 06 06-11_26_07](https://user-images.githubusercontent.com/85261864/120930126-0da3fe00-c6ba-11eb-819a-35091cfb9b35.png)
 
+![screenshot-www freecodecamp org-2021 06 06-18_19_26](https://user-images.githubusercontent.com/85261864/120941983-c5a1cd00-c6f3-11eb-9367-fa696f14798b.png)
 
-**Thoughts**
+
+
+**Thoughts** I think i need to break my study time into individual hours with break time inbetween. this is getting alternatingly fun and challanging to understand :)
 
 
 **Link(s) to work**
+
+
+[first_email_parcer_very_cool.md](https://github.com/Elijahnohands/100-days-of-code/files/6605028/first_email_parcer_very_cool.md)
+
+
+[check_with_continue.md](https://github.com/Elijahnohands/100-days-of-code/files/6605030/check_with_continue.md)
+
+[check_for_smallest_number.md](https://github.com/Elijahnohands/100-days-of-code/files/6605031/check_for_smallest_number.md)
+
+[easy_total_counter.md](https://github.com/Elijahnohands/100-days-of-code/files/6605032/easy_total_counter.md)
+
 
