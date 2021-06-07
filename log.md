@@ -57,7 +57,12 @@
 
 ### Day 4: 6/6/201
 
-**Today's Progress**: learned more about loops searching a line with the for loop and using boolian true false and ising 'is' also using none! also finding and print parts of a sting also learned about the string liberary and its uses
+**Today's Progress**: learned more about loops searching a line with the for loop and using boolian true false and ising 'is' also using none! also finding and print parts of a sting also learned about the string liberary and its uses. 
+
+**Link(s) to screenshots and links to study material**
+
+
+https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/files-as-a-sequence
 
 
 [screenshot-www freecodecamp org-2021 06 06-18_14_45](https://user-images.githubusercontent.com/85261864/120941858-1f55c780-c6f3-11eb-9940-0126a35068ce.png)
