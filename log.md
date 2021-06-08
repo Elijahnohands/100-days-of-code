@@ -89,4 +89,12 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 [easy_total_counter.md](https://github.com/Elijahnohands/100-days-of-code/files/6605032/easy_total_counter.md)
 
+### Day 5: 6/8/21
+
+**Today's Progress**: Sterted working through python crash course second eddition
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
 
