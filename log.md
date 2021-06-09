@@ -95,6 +95,9 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 figured out more abut creating a loop in code. First time making a code shorter and more efficiencet 
 
 
+https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-and-lists
+
+
 **Thoughts**: had fun today want to start on begginer friendly projects to help cement what ive learned so far
 
 **Link(s) to work**:
