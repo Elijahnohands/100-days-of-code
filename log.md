@@ -103,3 +103,16 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 **Link(s) to work**:
 
 [boolian while loop with list removalv2 shorter code.md](https://github.com/Elijahnohands/100-days-of-code/files/6620337/boolian.while.loop.with.list.removalv2.shorter.code.md)
+
+
+
+### Day 6: 6/9/21
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
