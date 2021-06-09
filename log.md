@@ -91,10 +91,12 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 ### Day 5: 6/8/21
 
-**Today's Progress**: Sterted working through python crash course second eddition
+**Today's Progress**: Sterted working through python crash course second eddition more freecodecamp. learned about lists and how to access files in python 
+figured out more abut creating a loop in code. First time making a code shorter and more efficiencet 
 
-**Thoughts**: 
+
+**Thoughts**: had fun today want to start on begginer friendly projects to help cement what ive learned so far
 
 **Link(s) to work**:
 
-
+[boolian while loop with list removalv2 shorter code.md](https://github.com/Elijahnohands/100-days-of-code/files/6620337/boolian.while.loop.with.list.removalv2.shorter.code.md)
