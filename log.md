@@ -116,3 +116,59 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 **Link(s) to work**:
 
 
+
+
+
+
+
+
+
+### Day 7: 
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+
+
+
+### Day 8: 
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+
+
+
+
+### Day 9: 
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+
+### Day 10: 
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**:
