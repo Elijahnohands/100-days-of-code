@@ -106,7 +106,7 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 
 
-### Day 6: 6/9/21
+### Day 6: 6/10/21
 
 **Today's Progress**:
 
