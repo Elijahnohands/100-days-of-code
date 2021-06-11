@@ -108,7 +108,7 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 ### Day 6: 6/10/21
 
-**Today's Progress**:
+**Today's Progress**: learned a more about dictionarys having trouble with exercise: "Exercise 3: Write a program to read through a mail log, build a his-togram using a dictionary to count how many messages have come fromeach email address, and print the dictionary." in py4e course pretty frusterated
 
 
 **Thoughts**: 
