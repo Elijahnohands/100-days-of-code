@@ -110,6 +110,10 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 **Today's Progress**: learned a more about dictionarys having trouble with exercise: "Exercise 3: Write a program to read through a mail log, build a his-togram using a dictionary to count how many messages have come fromeach email address, and print the dictionary." in py4e course pretty frusterated
 
+Ihave made now progress today I will come back to these same lessions: https://www.youtube.com/watch?v=PrhZ9qwBDD8 
+
+https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-and-loops
+
 
 **Thoughts**: 
 
