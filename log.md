@@ -127,12 +127,13 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 
 
-### Day 7: 
+### Day 7: 6/11/21
 
-**Today's Progress**:
+**Today's Progress**: took a break and made a simple mad libs program reviewed labeling and concatenation in print statements 
 
 
-**Thoughts**: 
+
+**Thoughts**: fun
 
 **Link(s) to work**:
 
