@@ -121,38 +121,26 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 
 
-
-
-
-
-
-
 ### Day 7: 6/11/21
 
 **Today's Progress**: took a break and made a simple mad libs program reviewed labeling and concatenation in print statements 
 
+**Thoughts**: fun
+
+**Link(s) to work**: 
 
 [Madlib_generator.MD](https://github.com/Elijahnohands/100-days-of-code/files/6643024/Madlib_generator.MD)
 
 
 
-**Thoughts**: fun
-
-**Link(s) to work**:
-
-
-
-
-
-
 ### Day 8: 6/12/21
 
-**Today's Progress**:
+**Today's Progress**: Made acronym generator learned more about lists and how to seperat them. Then take that list and pull characters from it then print the charaters
 
 
-**Thoughts**: going to work on some projects
+**Thoughts**: going to work on some projects. Worked on acronym generator 
 
-**Link(s) to work**:
+**Link(s) to work**: [Madlib_generator.MD](https://github.com/Elijahnohands/100-days-of-code/files/6643024/Madlib_generator.MD)
 
 
 
