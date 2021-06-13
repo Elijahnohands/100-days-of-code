@@ -132,6 +132,9 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 **Today's Progress**: took a break and made a simple mad libs program reviewed labeling and concatenation in print statements 
 
 
+[Madlib_generator.MD](https://github.com/Elijahnohands/100-days-of-code/files/6643024/Madlib_generator.MD)
+
+
 
 **Thoughts**: fun
 
@@ -142,12 +145,12 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 
 
-### Day 8: 
+### Day 8: 6/12/21
 
 **Today's Progress**:
 
 
-**Thoughts**: 
+**Thoughts**: going to work on some projects
 
 **Link(s) to work**:
 
