@@ -172,10 +172,12 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 ### Day 10: 6/16/21
 
-**Today's Progress**: 
+**Today's Progress**: Learning about regular expressions
+
+https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-with-python where I left off
 
 
-**Thoughts**: 
+**Thoughts**: Need to learn to use regex it seems very powerful and will make my code more beutiful
 
 **Link(s) to work**:
 
