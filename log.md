@@ -172,14 +172,15 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 ### Day 10: 6/16/21
 
-**Today's Progress**: Learning about regular expressions
+**Today's Progress**: Learning about regular expressions. Also built a timer using a tutoril was able to begin learning  about date time formats and how to make simple timers
 
 https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/networking-with-python where I left off
 
 
-**Thoughts**: Need to learn to use regex it seems very powerful and will make my code more beutiful
+**Thoughts**: Need to learn to use regex it seems very powerful and will make my code more beutiful. 
 
 **Link(s) to work**:
+[timer.md](https://github.com/Elijahnohands/100-days-of-code/files/6666329/timer.md)
 
 
 ### Day 10: 
