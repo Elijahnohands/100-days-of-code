@@ -151,7 +151,36 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 
 
 
-### Day 9: 
+### Day 9: 6/14/21
+
+**Today's Progress**: learned more about dictuionaries and tulpes
+
+
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+[finding longest word in file dictionary.md](https://github.com/Elijahnohands/100-days-of-code/files/6665911/finding.longest.word.in.file.dictionary.md)
+
+
+![screenshot-www freecodecamp org-2021 06 14-15_52_55](https://user-images.githubusercontent.com/85261864/122295218-f25d9d80-cec6-11eb-96b9-9bff6f987083.png)
+![screenshot-www freecodecamp org-2021 06 14-15_49_56](https://user-images.githubusercontent.com/85261864/122295219-f2f63400-cec6-11eb-9456-1f17d3fc20b2.png)
+![screenshot-www freecodecamp org-2021 06 14-15_43_01](https://user-images.githubusercontent.com/85261864/122295221-f2f63400-cec6-11eb-997c-bee0a4d2d9f4.png)
+![screenshot-www freecodecamp org-2021 06 14-15_54_09](https://user-images.githubusercontent.com/85261864/122295222-f2f63400-cec6-11eb-8fd2-6f2306ab91d6.png)
+
+
+### Day 10: 6/16/21
+
+**Today's Progress**: 
+
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 10: 
 
 **Today's Progress**:
 
@@ -171,3 +200,16 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-e
 **Thoughts**: 
 
 **Link(s) to work**:
+
+
+
+
+### Day 10: 
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
